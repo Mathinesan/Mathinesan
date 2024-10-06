@@ -11,11 +11,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/mathinesan-palanisamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/mathinesan-palanisamy" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://kaggle.com/mathinesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://kaggle.com/mathinesan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mathinesan-palanisamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathinesan-palanisamy" height="30" width="40" /></a>
+<a href="https://kaggle.com/mathinesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mathinesan" height="30" width="40" /></a>
 <a href="https://medium.com/@mathinesanpalanisamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mathinesanpalanisamy" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mathinesan-palanisamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mathinesan-palanisamy" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/mathinesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mathinesan" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mathinesan-palanisamy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mathinesan-palanisamy" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mathinesan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mathinesan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
